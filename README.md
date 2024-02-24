@@ -6,11 +6,11 @@ Jika username dan password berbeda tidak dapat melakukan login. selanjutnya meng
 
 Memasukkan username dan password:
 
-![Cuplikan layar 2024-02-24 230224](https://github.com/VicoTriansyahNasril/Flutter-W3-Vico/assets/142963459/2ab26d74-7c9c-4b2b-9193-5470bc35252c)
+![Cuplikan layar 2024-02-24 233037](https://github.com/VicoTriansyahNasril/Flutter-W3-Vico/assets/142963459/60ac87f9-2a62-4ad9-89f0-0ff3ad6556ef)
 
 Ketika yang diinputkan adalah salah:
 
-![Cuplikan layar 2024-02-24 230254](https://github.com/VicoTriansyahNasril/Flutter-W3-Vico/assets/142963459/546bc03b-b4a7-4a33-aa1a-8cc35cc7696c)
+![Cuplikan layar 2024-02-24 233132](https://github.com/VicoTriansyahNasril/Flutter-W3-Vico/assets/142963459/aad4ae89-b60d-4dbb-afd3-b137ff6de257)
 
 Perubahan bar dan icon untuk logout:
 
