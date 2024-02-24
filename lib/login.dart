@@ -22,12 +22,15 @@ class _LoginPageState extends State<LoginPage> {
           children: <Widget>[
             const SizedBox(height: 80.0),
             Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 Image.asset('assets/diamond.png'),
                 const SizedBox(height: 16.0),
                 Text(
-                  'SHRINE',
+                  'SHRINE\n'
+                  'Vico Triansyah (221511031)',
                   style: Theme.of(context).textTheme.headlineSmall,
+                  textAlign: TextAlign.center,
                 ),
               ],
             ),
